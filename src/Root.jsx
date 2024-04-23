@@ -3,7 +3,7 @@ import { PersistGate } from "redux-persist/integration/react";
 import { store, persistor } from "./store/store.js";
 import App from "./App.jsx";
 import "./index.css";
-import "./app.css";
+import "./App.css";
 
 const Root = () => {
 	return (
